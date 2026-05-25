@@ -1,5 +1,5 @@
 #  Hi 👋, I'm Parul Mathuria
-** BCA (AI & IOT) | Web Development Intern  | Learning AI & Modern Technologies**
+ BCA (AI & IOT) | Web Development Intern  | Learning AI & Modern Technologies
 
 - 🔭 **I’m currently working on:** AI Engineer Internship at CountryEdu Private Limited, where I’m learning
 - 🌱 **I’m currently learning:** Python, Artificial Intelligence, IoT, HTML, CSS & Machine Learning
